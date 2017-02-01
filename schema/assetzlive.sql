@@ -27,7 +27,7 @@ SET default_with_oids = false;
 --
 
 CREATE TABLE "acp-33-test-table" (
-    id integer
+    id3 integer
 );
 
 
